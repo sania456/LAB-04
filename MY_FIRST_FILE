@@ -4,4 +4,8 @@ int a +b ;
 console.wrietline(& " addition of two variables ");
 int a = Convert.ToInt32(Console.Readline());
 int b = Convert.ToInt32(Console.Readline());
-
+substraction 
+int a-b ;
+console.writeline(& " substraction of two variables " );
+int a = Convert.ToInt32(console.Readline());
+int b = convert.ToInt32(console.Readline());
