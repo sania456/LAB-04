@@ -1,0 +1,7 @@
+int a; 
+int b ;
+int a +b ;
+console.wrietline(& " addition of two variables ");
+int a = Convert.ToInt32(Console.Readline());
+int b = Convert.ToInt32(Console.Readline());
+
